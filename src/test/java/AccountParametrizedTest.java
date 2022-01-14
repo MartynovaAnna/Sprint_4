@@ -28,6 +28,7 @@ public class AccountParametrizedTest {
                     {"ТимотиШаламе ", false},
                     {"Тимоти Ша ламе", false},
                     {"", false},
+                    {null, false}
             };
         }
 
